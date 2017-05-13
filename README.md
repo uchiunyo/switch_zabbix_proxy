@@ -1,0 +1,2 @@
+# switch_zabbix_proxy
+Zabbix-Proxy障害発生時の切り替えスクリプト
